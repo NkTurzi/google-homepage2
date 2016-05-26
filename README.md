@@ -1,4 +1,3 @@
-# google-homepage2
-This is the first project from "The Odin Project" again...
+Google Home Page Project on The Odin Project
 
-Im a complete noob and am just trying to figure this stuff out.
+link: http://www.theodinproject.com/web-development-101/html-css
