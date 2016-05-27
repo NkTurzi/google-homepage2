@@ -1,0 +1,96 @@
+body {
+  margin:auto
+  vertical-align: middle;
+}
+
+input#googlesearch, input#imfeelinglucky {
+  height:40px;
+  color: grey;
+  display: inline-block;
+    border-radius: 3px;
+  border: none;
+    background-color: #f6f6f6;
+  font-family: sans-serif;
+  font-size:13px;
+  font-weight: 600;
+  text-align: center;
+  padding: 7px 1px;
+ padding-right:0px;
+  padding-left:0px;
+  padding-top: 5px;
+    margin:1px;
+  border: 0px;
+  
+}
+
+input#googlesearch{
+  width: 130px
+}
+
+input#imfeelinglucky {
+  width: 150px;
+}
+
+input#searchbar:hover, input#googlesearch:hover, input#imfeelinglucky:hover{
+  border:.5px solid gray;
+}
+
+html {
+  font-family:Arial;
+}
+
+img.one {
+  margin-top:170px;
+}
+img.two {
+  width:22px;
+  height:22px;
+}
+
+div.googlecomplete{
+  margin: auto;
+}
+
+input#searchbar {
+  width: 560px;
+  height: 40px;
+  padding: 8px 15px;
+  margin-bottom: 40px;
+  margin-top:40px;
+    border: 1px solid rgba(50, 50, 50, 0.2);
+    background: white;
+}
+
+div#Rednoseday {
+  font-size:small;
+}
+
+a#rednoselink {
+  text-decoration: none;
+}
+
+a#rednoselink:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 13px;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  text-decoration: none;
+  display: block;
+  padding: 8px;
+}
+
+li#myname {
+  color: grey;
+}
